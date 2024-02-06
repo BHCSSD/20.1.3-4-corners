@@ -6,6 +6,7 @@ Marked
 2. set up an if statement that changes the colour of the background into a unique color depending on which quadrant the mouse is clicked in.
   - You will need to do some problem-solving...
   - remember: and = &&&,  or = ||
+  - you will need mouseX and mouseY for this to work. 
 
 ```
 //20.1.2-4-corners
