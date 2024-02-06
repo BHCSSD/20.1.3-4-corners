@@ -22,7 +22,17 @@ function draw() {
 }
 
 function mouseClicked() {
-  // Check which quadrant the mouse click is in
+// Check which quadrant the mouse click is in.
+// think of this as your hitbox. if your mouse is inside of this, the code will run.
+// if( this is true){
+// this will run
+// } else if (the first  if is not true, test this){
+// run this
+// }else{
+// if all else fails do this
+// }
+
+
   if (mouseX < ___ && mouseY < ___) {
     // Top-left quadrant (Change color to red)
     
